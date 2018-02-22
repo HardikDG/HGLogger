@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'HGLogger'
-  s.version          = '0.10'
+  s.version          = '0.11'
   s.summary          = 'A sample logger with additional information'
  
   s.description      = <<-DESC
